@@ -1,0 +1,58 @@
+. Mi a WWW?
+a. World War Web.
+b. World Write Web.
+c. World Wide Web.
+Hány bites az IPv6 cím?
+a. 32.
+b. 64.
+c. 128.
+Miért készítik csavart érpárból az UTP-kábeleket?
+a. Könnyebb a végeket felszerelni.
+b. Puhább legyen, könnyen hajlítható.
+c. A zavaró hatás (az érpárok közötti áthallás) megszüntetése miatt.
+. Melyik igaz a LAN-ra?
+a) A LAN helyi kiterjedésű hálózatot jelent.
+b) A LAN nem lehet 10 m-nél nagyobb kiterjedésű.
+c) Minden LAN tartalmaz szervergépet is.
+Mi igaz a szerverre?
+a) Egy szervergépben több CPU-nak kell lennie.
+b) Szerver csak WAN hálózatban fordul elő.
+c) A szerver kiszolgálót jelent.
+
+Mely szolgáltatások NEM érhetők el az intraneten?
+a) E-mail
+b) WWW
+c) FTP
+d) Chat
+e) Tanári gép processzora, merevlemeze
+
+Melyik NEM internetes szolgáltatás?
+a) WWW
+b) FTP
+c) E-mail
+d) Lemezformázás
+e) HTTP
+
+Mi az e-business magyar megfelelője?
+a) Elektronikus pénztárca
+b) Elektronikus kereskedelem
+c) Elektronikus üzlet
+d) Elektronikus kapcsolat
+
+Mi szükséges az elektronikus levelezéshez?
+a) Csak LAN
+b) Internet- vagy belső levelezés esetén intranet kapcsolat
+c) Webszerver
+d) Nyomtató
+
+Mi szükséges az elektronikus levelezéshez?
+a) Levelezőszerver
+b) FTP szerver
+c) Saját e-mail cím
+d) Webszerver(ek)
+
+Mely fogalom nem tartozik a WWW-hez?
+a) Hipertext dokumentum
+b) Levelezőprogram
+c) Link
+d) Webszer
